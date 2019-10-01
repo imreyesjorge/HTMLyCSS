@@ -17,7 +17,7 @@ El objetivo del taller será el lograr entender que es *html* y *css*, así como
 	- [Etiquetas: `<style>` y `<link>`](/material/html4.md)
 - [¿Qué es *CSS*?](/material/css1.md)
 	- [Selectores](/material/css2.md)
-	- [Propiedades](/materia/css3.md)
+	- [Propiedades](/material/css3.md)
 - [Ejercicio: Mi primera página web](/material/ejercicio.md)
 
 
