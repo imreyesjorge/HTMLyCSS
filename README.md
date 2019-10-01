@@ -12,9 +12,19 @@ El objetivo del taller será el lograr entender que es *html* y *css*, así como
 
 ## Temas
 - [¿Qué es *HTML*?](material/html1.md)
+	- [Etiquetas](/material/html2.md)
+	- [Clases e ID's](/material/html3.md)
+	- [Etiquetas: `<style>` y `<link>`](/material/html4.md)
 - [¿Qué es *CSS*?](/material/css1.md)
+	- [Selectores](/material/css2.md)
+	- [Propiedades](/materia/css3.md)
+- [Ejercicio: Mi primera página web](/material/ejercicio.md)
 
+
+###### [Ejemplos de CSS | CssZenGarden](http://www.csszengarden.com/)
 
 ##### NOTAS:
-> **ASCII**, abreviatura para American Standard Code for Information Interchange.
+> **ASCII**: abreviatura para American Standard Code for Information Interchange.
+
+> **HIPERVÍNCULO**: Se llama *hipervínculo* o _hiperenlace_ a un tipo de elemento presente en los documentos electrónicos  que hace alusión a otro documento diferente, a una parte específica del mismo documento o a otro recurso de cualquier naturaleza, como búsquedas online, mecanismos de compra, suscripciones, etc.
 
