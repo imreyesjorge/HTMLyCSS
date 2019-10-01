@@ -11,8 +11,8 @@
 El objetivo del taller será el lograr entender que es *html* y *css*, así como conocer algunos conceptos fundamentales y motivar a investigar para aprender mucho más sobre estas dos tecnologías.
 
 ## Temas
-- [¿Qué es *HTML*?](material/html1)
-- [¿Qué es *CSS*?](/material/css1)
+- [¿Qué es *HTML*?](material/html1.md)
+- [¿Qué es *CSS*?](/material/css1.md)
 
 
 ##### NOTAS:
