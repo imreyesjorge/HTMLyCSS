@@ -44,4 +44,4 @@ Etiqueta | Definición
 
 ###### HTML5 tiene muchísimas etiquetas, por ello, si quieres ver más etiquetas puedes visitar la [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) de Mozilla.
 
-#### [INICIO](../../README.md)
+#### [INICIO](../README.md)
