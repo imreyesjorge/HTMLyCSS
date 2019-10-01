@@ -11,7 +11,7 @@
 El objetivo del taller será el lograr entender que es *html* y *css*, así como conocer algunos conceptos fundamentales y motivar a investigar para aprender mucho más sobre estas dos tecnologías.
 
 ## Temas
-- [¿Qué es *HTML*?](material/html1)
+- [¿Qué es *HTML*?](/htmlycss/material/html1)
 
 # HTML
 Podemos ver a **html** como el esqueleto de una página web, es el encargado de establecer que contenido va a tener la página en sí. 
