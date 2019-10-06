@@ -1,3 +1,5 @@
+## Etiquetas
+
 En HTML se usan etiquetas, donde cada una tiene una de inicio y otra de cierre: `<etiqueta> </etiqueta>`. Las etiquetas de inicio se diferencían de las de cierre, por el slash `/` antes del nombre de la misma.
 
 Existen etiquetas base para realizar un documento HTML, tales como `<html>`, `<head>`, `<title>` y `<body>`.
