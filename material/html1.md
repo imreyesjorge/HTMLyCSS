@@ -1,5 +1,6 @@
 
 # HTML
+![html](http://www.innovafire.com/sites/default/files/blog/html.jpg)
 Podemos ver a **html** como el esqueleto de una página web, es el encargado de establecer que contenido va a tener la página en sí. 
 
 Una página web se puede dividir en dos partes, el *frontend* y el *backend*, dónde el *frontend* se ejecuta del lado del cliente y el *backend* del lado del servidor, por el momento no es necesario saber sobre estas dos partes, sólo que el HTML y CSS (De eso trata esta "guía") forman parte del frontend.
