@@ -10,4 +10,6 @@
 8. Liga el archivo *.css*
 9. En el archivo *.css* modifica tu archivo .html a tu gusto!
 
+### Checa este ejemplo (con explicaciones): [Link](https://codepen.io/jorgert1205/pen/jOOWRRQ)
+
 #### [INICIO](../README.md)
