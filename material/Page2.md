@@ -34,12 +34,12 @@ Etiqueta | Definición
 :---: | ---
 `<p>` | Establece un párrafo
 `<div>` | Contenedor de elementos genérico
-`<ul>` | Genera una lista sin órden
-`<ol>` | Genera una lista con órden
-`<li>`| Establece un elemento de una lista con o sin órden.
+`<ul>` | Genera una lista sin orden
+`<ol>` | Genera una lista con orden
+`<li>`| Establece un elemento de una lista con o sin orden.
 `<a>` | Establece un [link](#).
 `<img>` | Inserta una imagen
 
 ###### HTML5 tiene muchísimas etiquetas, por ello, si quieres ver más etiquetas puedes visitar la [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) de Mozilla.
 
-#### [INICIO](../README.md)
+## [Anterior 👈](Page1.md)  -  [👉 Siguiente](Page3.md)

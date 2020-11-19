@@ -1,6 +1,6 @@
-
-# HTML
-![html](http://www.innovafire.com/sites/default/files/blog/html.jpg)
+<p align="center">
+  <img src="https://github.com/WorkshopTechnology/Materiales/blob/master/Sesiones/Talleres/HtmlAndCss/material/HtmlHead.png">
+</p>
 
 Podemos ver a **html** como el esqueleto de una página web, es el encargado de establecer que contenido va a tener la página en sí. 
 
@@ -10,4 +10,4 @@ El *HTML* establece estructura usando **etiquetas** (esto se verá más adelante
 
 Se puede ver la importancia de desarrollar buen *html* en cosas como el **SEO** (Search Engine Optimization), ya que si se usan bien las etiquetas, se le puede ofrecer una mejor información al buscador (*ej.* Google).
 
-#### [INICIO](../README.md)
+## [Anterior 👈](/Sesiones/Talleres/HtmlAndCss/README.md)  -  [👉 Siguiente](Page2.md)
