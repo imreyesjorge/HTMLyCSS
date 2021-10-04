@@ -39,9 +39,6 @@ El objetivo del taller será el lograr entender que es _html_ y _css_, así como
 
 [Ejemplos de CSS | CssZenGarden](http://www.csszengarden.com/)
 
-> Repositorio original: [Repo](https://github.com/imreyesjorge/HTMLyCSS)
-
-
 ## [Siguiente](material/Page1.md)
 
 <div align="center">
